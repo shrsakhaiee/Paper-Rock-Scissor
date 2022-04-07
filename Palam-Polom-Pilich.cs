@@ -39,7 +39,7 @@ namespace Palam_Polom_Pilich
                 }
                 if (user_score == 5)
                 {
-                    Console.WriteLine("You Win");
+                    Console.WriteLine("You Win😍😍");
                     break;
                 }
                 else if (computer1_score == 5)
